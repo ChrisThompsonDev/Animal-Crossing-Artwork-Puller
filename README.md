@@ -1,11 +1,5 @@
 Cocktail Recipe Search
-This app allows for a user to type in a cocktail name and see how to make it. 
-
-Description
-It also allows for generic searches and scrolling through a carousel of similar drinks. 
-
-Getting Started
-Simply Type in a drink! Try typing in "margarita" and using the arrows to see various Margarita recipes. 
+This app allows for a user to type in a piece of art in Animal Crossing New Horizons and display details and a picture
 
 
 Authors
@@ -19,5 +13,5 @@ License
 N/A
 
 Acknowledgments
-API was pulled from https://www.thecocktaildb.com/
+API was pulled from https://www.acnhapi.com/
 Special thanks to #100Devs for the inspiration
